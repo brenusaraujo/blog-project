@@ -1,2 +1,4 @@
 node_modules
-src/index.tsx
+src/index.js
+src/App.jsx
+src/components
